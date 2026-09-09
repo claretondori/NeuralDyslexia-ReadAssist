@@ -1,6 +1,10 @@
 #  NeuralDyslexia ReadAssist
 ### *AI-Powered Dyslexia Assistive Portfolio Pipeline & Web Scraping Extraction Engine*
 
+**Live Production Link:** [neural-dyslexia-read-assist-yl1y.vercel.app](https://neural-dyslexia-read-assist-yl1y.vercel.app/)
+
+
+
 **Core Technical Stack:** 
 *   **Frontend Architecture:** Next.js 15 (React 19 Server/Client Split) | TypeScript
 *   **Backend Infrastructure:** FastAPI (High-Speed Python ASGI) | Pydantic v2
