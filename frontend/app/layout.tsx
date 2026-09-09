@@ -1,5 +1,5 @@
 import React from 'react';
-import './globals.css';
+import '@/app/global.css';
 
 export const metadata = {
   title: 'NeuralDyslexia ReadAssist',
@@ -13,7 +13,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="antialiased">
+      <body style={{ margin: 0, padding: 0 }}>
         {children}
       </body>
     </html>
