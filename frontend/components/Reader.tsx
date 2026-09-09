@@ -34,7 +34,7 @@ export default function Reader() {
     if (mode === 'url' && !url.trim()) return;
     setLoading(true);
     try {
-      const res = await fetch('https://neuraldyslexia-readassist.onrender.com', {
+      const res = await fetch('https://neuraldyslexia-readassist.onrender.com/api/transform', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ 

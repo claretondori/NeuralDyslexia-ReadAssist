@@ -1,5 +1,5 @@
 import React from 'react';
-import '@/app/global.css';
+import './globals.css';
 
 export const metadata = {
   title: 'NeuralDyslexia ReadAssist',
