@@ -18,7 +18,7 @@
 
 Dyslexia is **not a reflection of intelligence, eyesight, or effort.** It is a specific neurological difference in how the human brain processes written language. 
 
-For a fluent reader, looking at a page of text is effortless—the brain automatically maps visual letters into sounds and strings them together into meaning instantly. For an individual with dyslexia, **this automatic tracking system is fractured.** When reading standard digital text, a dyslexic brain experiences severe cognitive overloading due to three distinct neurological hurdles:
+For a fluent reader, looking at a page of text is effortless: the brain automatically maps visual letters into sounds and strings them together into meaning instantly. For an individual with dyslexia, **this automatic tracking system is fractured.** When reading standard digital text, a dyslexic brain experiences severe cognitive overloading due to three distinct neurological hurdles:
 
 1. **Phonological Processing Fatigue (The Pacing Problem):** Because the brain has to manually decode every single letter fragment to pronounce a word, it rapidly drains short-term working memory. Reading speed slows down drastically, and by the end of a long sentence, the reader has often lost the contextual meaning of the beginning.
 2. **Visual Crowding & White-Space Fatigue:** Standard digital layouts place letters too closely together. For a dyslexic reader, characters and lines visually bleed or melt into one another, creating an overlapping distortion that causes severe eye strain, headaches, and mental exhaustion.
